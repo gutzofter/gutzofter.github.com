@@ -1,0 +1,43 @@
+.header {
+    background-color: #ccffcc;
+    border: 1px solid #999999;
+    width: 1000px;
+}
+
+.side_bar {
+    background-color: #ccffcc;
+    border: 1px solid #999999;
+}
+
+.content_container {
+    border: 1px solid #999999;
+}
+
+.footer {
+    background-color: #ccffcc;
+    border: 1px solid #999999;
+    width: 1000px;
+}
+
+.left_position {
+    float: left;
+}
+
+.left_offset {
+    margin-left: 100px;
+}
+.right_position {
+    float: right;
+}
+
+.reset_left {
+    clear: left;
+}
+
+.reset_right {
+    clear: right;
+}
+
+.invisible {
+    display: none;
+}
